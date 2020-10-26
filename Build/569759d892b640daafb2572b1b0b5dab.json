@@ -1,0 +1,17 @@
+{
+"companyName": "Eddy__",
+"productName": "HitNJump",
+"productVersion": "0.1",
+"dataUrl": "46eba3f3d7708da1c236a0da9d342bc1.unityweb",
+"wasmCodeUrl": "f58c31e183caa25762de51e62919a7b8.unityweb",
+"wasmFrameworkUrl": "432e909815390eab12da6a22c3df12c3.unityweb",
+"wasmSymbolsUrl": "50fcd0a715b6d98be23c355449124dfa.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
